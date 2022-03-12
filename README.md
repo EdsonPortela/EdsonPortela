@@ -1,4 +1,4 @@
-### Olá! Eu Sou o Edson Portela 👋
+### Olá! Sou o Edson Portela 👋
 
 
 - 🔭 Atualmente trabalho com Front-end
